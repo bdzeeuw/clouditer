@@ -2,13 +2,13 @@ theme: jekyll-theme-minimal
 title: Welcome to Clouditer
 description: Lessons learnt on my Cloud Journey
 locale: en_US
-#logo: # filename of a logo image that has been placed into your images directory
+logo: logo.png
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
   name: Bas de Zeeuw
   avatar: bas.jpg
-  #bio: "This is a sample Jekyll academic website."
+  bio: "Cloud Systems Consultant at Sentia"
   #email: laderast@ohsu.edu
   # Do not include the @ symbol in your Twitter username
   #twitter: laderast
