@@ -7,7 +7,7 @@ See my [LinkedIn](https://www.linkedin.com/in/basdezeeuw89/) to learn more about
 
 ## Blogs
 * [Simple script to find the Tenant ID of a Microsoft organization - without requiring access to the tenants Azure Active Directory](/articles/simple-tool-to-find-tenant-id/)
-* [Useful Log Analytics snippets](/articles/useful-log-analytics-snippets/)
+* [Useful Log Analytics snippets](/articles/useful-log-analytics-snippets/README.md)
 
 ## Meetups and events I have presented at
 - Getting started with Microsoft Azure: Azure Landing Zone & Migration [Microsoft Webinar](https://info.microsoft.com/WE-AzureMig-WBNR-FY20-04Apr-29-GettingstartedwithMicrosoftAzureAzureLandingZoneMigration-SRDEM17901_LP01Registration-ForminBody.html)
