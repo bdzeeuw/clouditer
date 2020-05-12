@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+date: 2020-05-12 15:22:22 -0000
 title: Simple tool to find your tenant id
 excerpt: "Introduction"
 tags: [azure, microsoft azure, azure tenant, azure tenant id, find tenant id, find azure tenant id, tenant id tool]
@@ -7,7 +8,7 @@ comments: true
 category: blog
 ---
 
-When working on different customers and projects you 
+When working on different customers and projects you
 Displaying all 'Allowed' traffic, containing IP address '10.0.1.10'
 ```sql
 AzureDiagnostics

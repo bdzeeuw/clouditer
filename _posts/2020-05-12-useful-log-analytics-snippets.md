@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+date: 2020-05-12 15:22:22 -0000
 title: Useful Log Analytics snippets
 excerpt: "Introduction"
 tags: [log analytics, loganalytics, azure, microsoft azure, azure monitor, monitoring, kudu, snippets, log analytics snippets]
