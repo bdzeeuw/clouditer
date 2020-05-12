@@ -8,13 +8,8 @@ comments: true
 category: blog
 ---
 
-When working on different customers and projects you
-Displaying all 'Allowed' traffic, containing IP address '10.0.1.10'
-```sql
-AzureDiagnostics
-| where Category == "AzureFirewallNetworkRule"
-| where msg_s contains "10.0.1.10"
-| where msg_s contains "Action: Allow"
-| where TimeGenerated > ago(5m)
-```
+# Simple script to find the Tenant ID of a Microsoft organization - without requiring access to the tenants Azure Active Directory
 
+## Article
+
+WIP

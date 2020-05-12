@@ -8,6 +8,8 @@ comments: true
 category: blog
 ---
 
+# Useful Log Analytics snippets
+
 Displaying all 'Allowed' traffic, containing IP address '10.0.1.10'
 ```sql
 AzureDiagnostics
