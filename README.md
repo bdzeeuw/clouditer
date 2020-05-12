@@ -9,7 +9,8 @@ See my [LinkedIn](https://www.linkedin.com/in/basdezeeuw89/) to learn more about
 * [Simple script to find the Tenant ID of a Microsoft organization - without requiring access to the tenants Azure Active Directory](/articles/simple-tool-to-find-tenant-id/)
 * [Useful Log Analytics snippets](/articles/useful-log-analytics-snippets/)
 
-## Meetups I have presented at
+## Meetups and events I have presented at
+- Getting started with Microsoft Azure: Azure Landing Zone & Migration [Microsoft Webinar](https://info.microsoft.com/WE-AzureMig-WBNR-FY20-04Apr-29-GettingstartedwithMicrosoftAzureAzureLandingZoneMigration-SRDEM17901_LP01Registration-ForminBody.html)
 - The challenges of onboarding enterprise customers in a Hybrid Cloud. [Cloud Architectures Meetup](https://www.meetup.com/nl-NL/Cloud-Architectures-Meetup/events/263062490/)
 
 ### Contributing
