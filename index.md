@@ -6,8 +6,8 @@ I am a Cloud Systems Consultant at Sentia. My work and research is focused on as
 See my [LinkedIn](https://www.linkedin.com/in/basdezeeuw89/) to learn more about my work and to get in touch with me.
 
 ## Blogs
-* [Simple script to find the Tenant ID of a Microsoft organization - without requiring access to the tenants Azure Active Directory](/clouditer/2020-05-13-simple-tool-to-find-tenant-id.md)
-* [Useful Log Analytics snippets](/clouditer/articles/useful-log-analytics-snippets/README.md)
+* [Simple script to find the Tenant ID of a Microsoft organization - without requiring access to the tenants Azure Active Directory](/clouditer/_posts/2020-05-13-simple-tool-to-find-tenant-id.md)
+* [Useful Log Analytics snippets](/clouditer/_posts/useful-log-analytics-snippets/README.md)
 
 ## Meetups and events I have presented at
 - Getting started with Microsoft Azure: Azure Landing Zone & Migration [Microsoft Webinar](https://info.microsoft.com/WE-AzureMig-WBNR-FY20-04Apr-29-GettingstartedwithMicrosoftAzureAzureLandingZoneMigration-SRDEM17901_LP01Registration-ForminBody.html)
