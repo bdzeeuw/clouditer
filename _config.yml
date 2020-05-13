@@ -1,9 +1,15 @@
 theme: jekyll-theme-minimal
+permalink: /:title
+baseurl: ""
 title: Welcome to Clouditer
 description: Lessons learnt on my Cloud Journey
 locale: en_US
 show_downloads: false
 logo: images/logo.png
+
+### exclude the instructions / write-up in the README.md
+exclude:
+- README.md
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
