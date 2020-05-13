@@ -18,3 +18,13 @@ See my [LinkedIn](https://www.linkedin.com/in/basdezeeuw89/) to learn more about
 If you want to contribute to any blog post or article, you are more than welcome to create a pull request or new issue on GitHub.
 
 ##### Clouditer: Bas de Zeeuw · MIT License
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-166360559-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-166360559-1');
+</script>
