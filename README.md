@@ -6,7 +6,7 @@ I am a Cloud Systems Consultant at Sentia. My work and research is focused on as
 See my [LinkedIn](https://www.linkedin.com/in/basdezeeuw89/) to learn more about my work and to get in touch with me.
 
 ## Blogs
-* [Simple script to find the Tenant ID of a Microsoft organization - without requiring access to the tenants Azure Active Directory](/articles/simple-tool-to-find-tenant-id/)
+* [Simple script to find the Tenant ID of a Microsoft organization - without requiring access to the tenants Azure Active Directory](/2020-05-13-simple-tool-to-find-tenant-id.md)
 * [Useful Log Analytics snippets](/articles/useful-log-analytics-snippets/README.md)
 
 ## Meetups and events I have presented at
