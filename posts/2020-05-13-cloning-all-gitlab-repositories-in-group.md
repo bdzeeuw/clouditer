@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: blog
 date: 2020-05-12 15:22:22 -0000
 title: Simple script to clone all repositories within a GitLab Group
 excerpt: "Introduction"
