@@ -21,7 +21,7 @@ category: blog
         Full Directory Name of Tenant.
 
     .EXAMPLE
-        Get-TenantID  -directoryName 'sentianl.onmicrosoft.com'
+        Get-TenantID  -directoryName 'contoso.onmicrosoft.com'
 #>
 
 param
