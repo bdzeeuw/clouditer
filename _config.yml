@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 #permalink: /:title
-#baseurl: ""
+baseurl: ""
 title: Welcome to Clouditer
 description: Lessons learnt on my Cloud Journey
 locale: en_US
