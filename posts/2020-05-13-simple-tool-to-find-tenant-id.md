@@ -12,4 +12,60 @@ category: blog
 
 ## Article
 
-WIP
+```powershell
+<#
+    .SYNOPSIS
+        Retrieve the tenant ID of the directory.
+
+    .PARAMETER directoryName
+        Full Directory Name of Tenant.
+
+    .EXAMPLE
+        Get-TenantID  -directoryName 'sentianl.onmicrosoft.com'
+#>
+
+param
+(
+    [Parameter(Position = 0, Mandatory = $true)]
+    [ValidateNotNullOrEmpty()]
+    $directoryName
+)
+
+function Get-TenantID
+{
+    [CmdletBinding()]
+    param
+    (
+        [Parameter(Position = 0, Mandatory = $true)]
+        [ValidateNotNullOrEmpty()]
+        $directoryName
+    )
+
+    $loginDomain = 'login.windows.net'
+    $urlPath = '.well-known/openid-configuration'
+    $domainSuffix = '.onmicrosoft.com'
+
+    if ( $directoryName.endswith("$domainSuffix") )
+        {
+            Write-Output "$directoryName ends with $domainSuffix"
+        }
+    else
+        {
+            Write-Output "$directoryName does not ends with $domainSuffix, appending $domainSuffix"
+            $directoryName += $domainSuffix
+        }
+    try
+        {
+            $request = (Invoke-WebRequest https://$loginDomain/$directoryName/$urlPath `
+            | ConvertFrom-Json).token_endpoint.Split('/')[3]
+            Write-Output "Directory $directoryName has tenant ID: `n$request"
+        }
+    catch
+        {
+            Write-Output "Exception Type: $($_.Exception.GetType().FullName)" -ForegroundColor Red
+            Write-Output "Exception Message: $($_.Exception.Message)" -ForegroundColor Red
+        }
+}
+
+Get-TenantID -directoryName $directoryName
+```
