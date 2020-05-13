@@ -19,8 +19,5 @@ owner:
   #twitter: laderast
   linkedin: basdezeeuw89
   github: bdzeeuw
-#  google:
-#    plus: #username
-#    analytics:
-#    verify:
-#    scholar: #id
+  google:
+    analytics: UA-166360559-1
