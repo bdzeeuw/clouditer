@@ -8,7 +8,7 @@ comments: true
 category: blog
 ---
 
-# Simple script to find the Tenant ID of a Microsoft organization - without requiring access to the tenants Azure Active Directory
+# Simple script to clone all repositories within a GitLab Group
 
 ## Article
 
