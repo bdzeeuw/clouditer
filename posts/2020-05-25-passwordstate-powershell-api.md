@@ -1,14 +1,14 @@
 ---
 layout: blog
 date: 2020-05-25 15:22:22 -0000
-title: PowerShell Password State API example
+title: PowerShell function to retrieve passwords using the Passwordstate API
 excerpt: "Introduction"
 tags: [powershell, passwordstate, passwordstate api, passwordstate api powershell, passwordstate]
 comments: true
 category: blog
 ---
 
-# PowerShell Password State API example
+# PowerShell function to retrieve passwords using the Passwordstate API
 
 ## Article
 The function:

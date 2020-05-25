@@ -6,6 +6,7 @@ I am a Cloud Systems Consultant at Sentia. My work and research is focused on as
 See my [LinkedIn](https://www.linkedin.com/in/basdezeeuw89/) to learn more about my work and to get in touch with me.
 
 ## Blogs
+* [PowerShell function to retrieve passwords using the Passwordstate API](/posts/2020-05-25-passwordstate-powershell-api.md)
 * [Simple script to clone all repositories within a GitLab Group](/posts/2020-05-13-cloning-all-gitlab-repositories-in-group.md)
 * [Simple script to find the Tenant ID of a Microsoft organization - without requiring access to the tenants Azure Active Directory](/posts/2020-05-13-simple-tool-to-find-tenant-id.md)
 * [Useful Log Analytics snippets](/posts/2020-05-13-useful-log-analytics-snippets.md)
