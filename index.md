@@ -12,6 +12,7 @@ See my [LinkedIn](https://www.linkedin.com/in/basdezeeuw89/) to learn more about
 * [Useful Log Analytics snippets](/posts/2020-05-13-useful-log-analytics-snippets.md)
 
 ## Meetups and events I have presented at
+- Unlocking business acceleration with Cloud: [Live Webinar](https://resources.sentia.com/en/isv-seminar-acceleration?utm_campaign=BE%20Seminar%20Software%20is%20eating%20the%20world&utm_content=142651060&utm_medium=social&utm_source=linkedin&hss_channel=lcp-818965)
 - Getting started with Microsoft Azure: Azure Landing Zone & Migration [Microsoft Webinar](https://info.microsoft.com/WE-AzureMig-WBNR-FY20-04Apr-29-GettingstartedwithMicrosoftAzureAzureLandingZoneMigration-SRDEM17901_LP01Registration-ForminBody.html)
 - The challenges of onboarding enterprise customers in a Hybrid Cloud. [Cloud Architectures Meetup](https://www.meetup.com/nl-NL/Cloud-Architectures-Meetup/events/263062490/)
 
